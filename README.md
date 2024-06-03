@@ -72,6 +72,7 @@ al cuarto de salida), el archivo se considerará inválido.
 Primero compilamos y generamos el .tar para correr el programa
 
 ```bash
+$ cd laberinto/ # nos movemos a la carpeta del proyecto
 $ mvn compile # compila el código
 $ mvn install # genera el archivo laberinto.jar en el subdirectorio target
 ```
